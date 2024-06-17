@@ -1,5 +1,10 @@
 ## Hi there 👋
-As a Business Intelligence Analyst with over 5 years of experience in data analytics and a master's degree in Data Analysis Engineering, I bring a blend of technical expertise and analytical skills to every project I work on. My passion for reading and continuous learning enables me to stay up-to-date with the latest trends and best practices in data analysis and data science, allowing me to provide insights that drive informed decision-making. I thrive in both collaborative environments and throughout independent work, and am committed to delivering results that exceed expectations. With a focus on accuracy and attention to detail, I approach every task with diligence and dedication, leveraging my skills to solve complex problems and deliver actionable recommendations.
+I'm Delaney, a Business Intelligence Analyst and a data enthusiast! 
+### ✨About Me✨
+- Data analytics background with 5 years of professional experience
+- Degrees in Data Analytics and Mathematics
+- Uses Excel for everything - meal planning, travel itinerary, personal budgets
+- Loves working with numbers and learning new skills
 
 <!--
 **DTaubenberger/DTaubenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
