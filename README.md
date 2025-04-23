@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Delaney, a Business Intelligence Analyst and a data enthusiast! 
+I'm Delaney, a Business Intelligence Analyst, and a data enthusiast! 
 ### ✨About Me✨
-- Data analytics background with 5 years of professional experience
+- Data analytics background with 6 years of professional experience
 - Degrees in Data Analytics and Mathematics
 - Uses Excel for everything - meal planning, travel itinerary, personal budgets
 - Loves working with numbers and learning new skills
